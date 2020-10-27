@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 let datetime4 = new Date();
 
-console.log(datetime4);
+console.log(datetime4 + ' is the date' );
 
 const grid = document.querySelector('.grid');
 
